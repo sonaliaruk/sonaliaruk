@@ -1,16 +1,21 @@
-## Hi there 👋
+![Power Bi Dashboard](https://github.com/sonaliaruk/sonaliaruk/blob/main/image_2025-09-28_211440591.png)
 
-<!--
-**sonaliaruk/sonaliaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi I'm Sonali Aruk 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+* 🎓 3rd-year B.Tech CSE student at Punjabi University.
+* 💻 Aspiring Data Analyst & Data Scientist
+* 🛠 Skilled in Python, SQL, Power BI and Excel
+* 📊 Hands-on experience in data cleaning, analysis, and visualization
+* 📈 Proficient in building interactive dashboards.
+* ✨ Passionate about transforming raw data into actionable insights for data-driven decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+* Python
+* SQL
+* Powerbi
+* Excel
+
+## 📬 Connect with Me
+[Linkdin](https://www.linkedin.com/in/sonali-aruk-a6b093314)
+
