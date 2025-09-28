@@ -3,7 +3,7 @@
 # 👋 Hi I'm Sonali Aruk 🌸
 
 ## 🚀 About Me
-* 🎓 3rd-year B.Tech CSE student at Punjabi University.
+* 🎓 B.Tech CSE student at Punjabi University.
 * 💻 Aspiring Data Analyst & Data Scientist
 * 🛠 Skilled in Python, SQL, Power BI and Excel
 * 📊 Hands-on experience in data cleaning, analysis, and visualization
