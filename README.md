@@ -1,6 +1,6 @@
 ![Power Bi Dashboard](https://github.com/sonaliaruk/sonaliaruk/blob/main/image_2025-09-28_211440591.png)
 
-# 👋 Hi I'm Sonali Aruk 
+# 👋 Hi I'm Sonali Aruk 🌸
 
 ## 🚀 About Me
 * 🎓 3rd-year B.Tech CSE student at Punjabi University.
